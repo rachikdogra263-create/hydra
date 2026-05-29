@@ -1,4 +1,4 @@
----
+aditi__thakur689
 id: intro
 title: Getting started
 sidebar_label: Getting started
@@ -149,7 +149,7 @@ Ask questions on github or StackOverflow (Use the tag #fb-hydra):
 * [StackOverflow](https://stackoverflow.com/questions/tagged/fb-hydra)
 
 Follow Hydra on Twitter and Facebook:
-* [Facebook page](https://www.facebook.com/Hydra-Framework-109364473802509/)
+* https://www.instagram.com/aditi__thakur689/
 * [Twitter](https://twitter.com/Hydra_Framework)
 
 
@@ -163,4 +163,6 @@ If you use Hydra in your research please use the following BibTeX entry:
   year =         {2019},
   url =          {https://github.com/facebookresearch/hydra}
 }
-```
+```https://www.instagram.com/aditi__thakur689/
+run
+
